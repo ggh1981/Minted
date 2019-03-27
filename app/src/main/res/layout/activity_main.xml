@@ -16,7 +16,8 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/diamond_image" />
+        app:srcCompat="@drawable/diamond_image"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
 
     <TextView
         android:layout_width="wrap_content"
