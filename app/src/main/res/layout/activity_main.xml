@@ -16,8 +16,7 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/diamond_image"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        app:srcCompat="@drawable/diamond_image" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -26,6 +25,7 @@
         android:layout_centerHorizontal="true"
         android:text="@string/title"
         android:textColor="#ffffff"
-        android:textSize="50sp" />
+        android:textSize="50sp"
+        />
 
 </RelativeLayout>
